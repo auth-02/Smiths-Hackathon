@@ -1,0 +1,11 @@
+ultralytics==8.1.23
+transformers==4.31.0
+scikit-image==0.22.0
+accelerate==0.27.2
+bitsandbytes==0.37.5
+mediapipe==0.10.10
+ollama==0.1.7
+opencv-contrib-python==4.9.0.80
+opencv-python==4.9.0.80
+requests==2.31.0
+tensorflow==2.15.0
